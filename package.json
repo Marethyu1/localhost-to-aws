@@ -1,0 +1,23 @@
+{
+  "name": "localhost-to-aws",
+  "version": "1.0.0",
+  "description": "Demo how get a docker container into aws",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Marethyu1/localhost-to-aws.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Marethyu1/localhost-to-aws/issues"
+  },
+  "homepage": "https://github.com/Marethyu1/localhost-to-aws#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "multer": "^1.4.2"
+  }
+}
